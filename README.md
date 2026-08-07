@@ -76,11 +76,11 @@ I love turning ideas into real-world projects and continuously improving my prob
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" />
 </a>
 &nbsp;&nbsp;
-<a href="YOUR_FACEBOOK_URL">
+<a href="https://web.facebook.com/mtrjs">
   <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="50" />
 </a>
 &nbsp;&nbsp;
-<a href="YOUR_EMAIL_OR_CONTACT_URL">
+<a href="taif.jnu@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" />
 </a>
 
