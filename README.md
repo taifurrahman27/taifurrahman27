@@ -3,7 +3,7 @@
 ### Web Developer || Aspiring Software Engineer
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="GitHub Profile Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8E2DE2&height=200&section=header&text=MD.%20TAIFUR%20RAHMAN%20JASIM&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Profile Banner" />
 </p>
 
 ---
@@ -12,14 +12,15 @@
 
 I'm a passionate **Web Developer** and **Aspiring Software Engineer** who enjoys building modern, responsive, and user-friendly web applications.
 
-I love turning ideas into real-world projects and continuously improving my problem-solving and software development skills. I'm currently focused on strengthening my knowledge of modern web technologies while working toward becoming a well-rounded software engineer.
+I love turning ideas into real-world projects and continuously improving my problem-solving and software development skills. I'm currently focused on **full-stack web development** while strengthening my knowledge of software engineering principles and best practices.
 
-* 🔭 I'm currently exploring **Next.js and modern web development**
+* 🔭 I'm currently exploring **Next.js and modern full-stack web development**
 * 🌱 I'm continuously learning **software engineering principles and best practices**
 * 💻 I enjoy building **full-stack web applications**
 * 🧩 I love solving programming and development problems
-* 🚀 I'm working toward becoming a **professional Software Engineer**
+* 🚀 I'm working toward becoming a **skilled Software Engineer**
 * 📚 I believe in learning by building real-world projects
+* 🤝 I'm interested in collaborating on meaningful web development projects
 
 ---
 
@@ -27,42 +28,23 @@ I love turning ideas into real-world projects and continuously improving my prob
 
 <p align="center">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" />
-</a>
-<a href="https://react.dev/">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" />
-</a>
-<a href="https://nextjs.org/">
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" />
-</a>
-<a href="https://nodejs.org/">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" />
-</a>
-<a href="https://expressjs.com/">
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" />
-</a>
-<a href="https://www.mongodb.com/">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" />
-</a>
-<a href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" />
-</a>
-<a href="https://github.com/">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" />
-</a>
-<a href="https://tailwindcss.com/">
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" />
-</a>
-<a href="https://www.figma.com/">
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" />
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,git,github,tailwind,figma" alt="Skills and Technologies" />
+
+</p>
+
+### 💻 Full-Stack Web Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb" alt="Full Stack Technologies" />
+
+</p>
+
+### 🔧 Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" alt="Development Tools" />
 
 </p>
 
@@ -72,16 +54,16 @@ I love turning ideas into real-world projects and continuously improving my prob
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/taifurrahmanjs/">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" />
+<a href="https://github.com/taifurrahman27">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-&nbsp;&nbsp;
-<a href="https://web.facebook.com/mtrjs">
-  <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="50" />
+
+<a href="https://www.linkedin.com/in/taifurrahmanjs">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp;&nbsp;
-<a href="taif.jnu@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" />
+
+<a href="mailto:taif.jnu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </p>
@@ -91,15 +73,28 @@ I love turning ideas into real-world projects and continuously improving my prob
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taifurrahman27&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=taifurrahman27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Taifur Rahman's GitHub Statistics"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taifurrahman27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=taifurrahman27&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
+---
+
+## 🧑‍💻 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taifurrahman27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=taifurrahman27&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
@@ -107,7 +102,10 @@ I love turning ideas into real-world projects and continuously improving my prob
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taifurrahman27&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=taifurrahman27&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
@@ -120,6 +118,10 @@ I'm always open to learning new technologies, collaborating on interesting proje
 
 ---
 
+## 🤝 Let's Connect
+
+If you're interested in **web development, software engineering, open-source projects, or collaboration**, feel free to connect with me.
+
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <strong>Thanks for visiting my profile! ⭐</strong>
 </p>
