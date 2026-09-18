@@ -3,9 +3,8 @@
 ### Web Developer || Software Engineer
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8E2DE2&height=200&section=header&text=MD.%20TAIFUR%20RAHMAN%20JASIM&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Profile Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MD.%20TAIFUR%20RAHMAN%20JASIM&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" alt="Profile Banner" />
 </p>
-
 ---
 
 ## 👨‍💻 About Me
