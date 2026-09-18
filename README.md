@@ -1,6 +1,6 @@
 # Hi there, I'm MD. TAIFUR RAHMAN JASIM 👋
 
-### Web Developer || Aspiring Software Engineer
+### Web Developer || Software Engineer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8E2DE2&height=200&section=header&text=MD.%20TAIFUR%20RAHMAN%20JASIM&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Profile Banner" />
