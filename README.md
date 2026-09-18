@@ -1,15 +1,20 @@
-# Hi there, I'm MD. TAIFUR RAHMAN JASIM 👋
-
-### Web Developer || Software Engineer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=MD.%20TAIFUR%20RAHMAN%20JASIM&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Web%20Developer%20%7C%7C%20Software%20Engineer&descAlignY=52&descSize=18" alt="Profile Banner" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MD.%20TAIFUR%20RAHMAN%20JASIM&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" alt="Profile Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Web+Developer;Software+Engineer;Building+Full-Stack+Web+Apps" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=taifurrahman27&color=8E2DE2&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Web Developer** and **Aspiring Software Engineer** who enjoys building modern, responsive, and user-friendly web applications.
+I'm a passionate **Web Developer** and **Software Engineer** who enjoys building modern, responsive, and user-friendly web applications.
 
 I love turning ideas into real-world projects and continuously improving my problem-solving and software development skills. I'm currently focused on **full-stack web development** while strengthening my knowledge of software engineering principles and best practices.
 
