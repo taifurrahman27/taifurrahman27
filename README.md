@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Web+Developer;Software+Engineer;Building+Full-Stack+Web+Apps" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=taifurrahman27&color=8E2DE2&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -133,6 +129,10 @@ I'm always open to learning new technologies, collaborating on interesting proje
 ## 🤝 Let's Connect
 
 If you're interested in **web development, software engineering, open-source projects, or collaboration**, feel free to connect with me.
+
+<p align="center">
+  🌐 Check out my work at <a href="https://taif-portfolio-three.vercel.app/"><strong>my portfolio</strong></a>
+</p>
 
 <p align="center">
   <strong>Thanks for visiting my profile! ⭐</strong>
