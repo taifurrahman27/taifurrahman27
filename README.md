@@ -108,14 +108,6 @@ I love turning ideas into real-world projects and continuously improving my prob
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=taifurrahman27&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Activity"
-  />
-</p>
 
 
 ## 💡 My Development Philosophy
