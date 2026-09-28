@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Web+Developer;Software+Engineer;Building+Full-Stack+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Web+Developer;Software+Engineer;Building+Full-Stack+Web+Apps" alt="Typing SVG" />
 </p>
 
 ---
@@ -123,7 +123,7 @@ I'm always open to learning new technologies, collaborating on interesting proje
 If you're interested in **web development, software engineering, open-source projects, or collaboration**, feel free to connect with me.
 
 <p align="center">
-  🌐 Check out my work at <a href="https://taif-portfolio-three.vercel.app/"><strong>my portfolio</strong></a>
+  🌐 Check out my work at <a href="https://taif-portfolio-three.vercel.app/"><strong>My Portfolio</strong></a>
 </p>
 
 <p align="center">
